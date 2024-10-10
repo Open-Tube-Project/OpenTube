@@ -11,10 +11,10 @@
 ###
 
 <div align="center">
-  <a href="https://l.messenger.com/l.php?u=https%3A%2F%2Ft.me%2F%2BeoIIb0Of-yM5MzA0&h=AT3JVtHp61PKWHUp7b9Hpudzq28FS40npdm_0JCxa7_jRvSVUoPqi169hy1UC-wtMKiB6Zc-xPADp70cBqiP8g0YkqLN_t6YASXJ6IF1yOZ3uXkf9gsmHgp0ccGuhcFzqhYvaQ" target="_blank">
+  <a href="https://t.me/+eoIIb0Of-yM5MzA0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://l.messenger.com/l.php?u=https%3A%2F%2Fdiscord.com%2Finvite%2FEMKu6Ujj&h=AT3JVtHp61PKWHUp7b9Hpudzq28FS40npdm_0JCxa7_jRvSVUoPqi169hy1UC-wtMKiB6Zc-xPADp70cBqiP8g0YkqLN_t6YASXJ6IF1yOZ3uXkf9gsmHgp0ccGuhcFzqhYvaQ" target="_blank">
+  <a href="https://discord.com/invite/6aNfM8NEch" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
   </a>
 </div>
