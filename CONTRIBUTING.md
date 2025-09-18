@@ -34,7 +34,7 @@ We welcome feature suggestions! Please:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/OpenTube.git
+   git clone https://github.com/Open-Tube-Project/OpenTube.git
    cd OpenTube
    ```
 
