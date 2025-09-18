@@ -50,9 +50,6 @@ OpenTube is a powerful, open-source third-party YouTube client designed to bring
    
    # For iOS (macOS only)
    flutter run -d ios
-   
-   # For web
-   flutter run -d web
    ```
 
 ## 📱 Platform Support
@@ -62,7 +59,6 @@ OpenTube is a powerful, open-source third-party YouTube client designed to bring
 | Android | ✅ Supported | Full feature support |
 | iOS | ✅ Supported | Full feature support |
 | OpenHarmony | 🚧 In Development | Core features available |
-| Web | ⚡ Limited | Basic functionality |
 
 ## 🛠️ Architecture
 

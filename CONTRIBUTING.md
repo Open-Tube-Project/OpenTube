@@ -145,7 +145,6 @@ OpenTube/
 ├── test/                       # Unit and widget tests
 ├── android/                    # Android platform files
 ├── ios/                       # iOS platform files
-├── web/                       # Web platform files
 └── docs/                      # Additional documentation
 ```
 
