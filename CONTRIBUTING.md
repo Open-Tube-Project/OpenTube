@@ -105,8 +105,8 @@ We welcome feature suggestions! Please:
 
 ### Prerequisites
 
-- **Flutter SDK**: >= 3.7.0
-- **Dart SDK**: >= 3.7.0
+- **Flutter SDK**: >= 3.35.4
+- **Dart SDK**: >= 3.35.4
 - **Platform Tools**:
   - Android: Android Studio or VS Code with Android SDK
   - iOS: Xcode (macOS only)

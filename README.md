@@ -23,8 +23,8 @@ OpenTube is a powerful, open-source third-party YouTube client designed to bring
 
 ### Prerequisites
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (>=3.7.0)
-- [Dart SDK](https://dart.dev/get-dart) (>=3.7.0)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (>=3.35.4)
+- [Dart SDK](https://dart.dev/get-dart) (>=3.35.4)
 - Platform-specific development tools:
   - **Android**: Android Studio or VS Code with Android SDK
   - **iOS**: Xcode (macOS only)
