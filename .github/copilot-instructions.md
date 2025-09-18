@@ -12,6 +12,11 @@ Install Flutter SDK using ONE of these methods (try in order):
 2. **Git method**: `git clone --depth 1 --branch stable https://github.com/flutter/flutter.git` then add to PATH
 3. **Download**: Download from https://flutter.dev/docs/get-started/install
 
+**Environment Notes:**
+- Some network environments may block Flutter SDK downloads - try different installation methods
+- Corporate firewalls may prevent pub.dev package downloads
+- If downloads fail, Flutter commands will show specific error messages
+
 Ensure you have the following tools installed:
 - Git
 - Chrome/Chromium (for web development) 
@@ -42,8 +47,20 @@ These commands MUST complete successfully before making changes:
 ### Troubleshooting Common Issues
 - **"Flutter command not found"**: Add Flutter bin directory to PATH or reinstall
 - **"No devices found"**: For web, ensure Chrome is installed. For Android, start emulator first.
-- **Download failures**: Network restrictions may prevent Flutter from downloading dependencies
+- **Download failures**: Network restrictions may prevent Flutter from downloading dependencies. Try different networks or installation methods.
 - **Build failures**: Run `flutter clean` then `flutter pub get` and retry
+- **"pub get failed"**: Corporate firewalls may block pub.dev - check network settings
+
+### Repository Validation
+Use this quick check to verify repository structure:
+```bash
+# Verify all required directories exist
+ls -la lib/ android/ ios/ web/ test/
+# Check key files
+ls -la pubspec.yaml analysis_options.yaml lib/main.dart
+# Count Dart files (should show 4 files)
+find lib -name "*.dart" | wc -l
+```
 
 ## Validation Requirements
 
@@ -161,19 +178,23 @@ dev_dependencies:
 
 ### Current Application State
 - **Template Status**: Currently a basic Flutter counter app template
-- **Innertube Integration**: YouTube API client exists but not yet integrated into UI
+- **Innertube Integration**: YouTube API client exists but not yet integrated into UI  
 - **Platform Support**: Configured for Android, iOS, and Web but needs platform-specific testing
+- **Codebase Size**: 4 Dart files totaling ~1,142 lines of code
 
 ### Development Constraints  
 - **Network Dependencies**: Flutter commands require internet access for package downloads
-- **Build Dependencies**: First builds download significant toolchain components
+- **Build Dependencies**: First builds download significant toolchain components (can be 1GB+)
 - **API Limitations**: YouTube Innertube API may require proper user agents and rate limiting
+- **Environment Issues**: Some corporate/restricted networks may block Flutter package downloads
 
 ### Common Problems and Solutions
 - **"Target of URI doesn't exist"**: Run `flutter pub get` to download missing packages
 - **"No connected devices"**: For web, install Chrome; for mobile, setup emulators/devices
 - **Long build times**: Normal for Flutter, especially first builds - wait patiently
 - **Hot reload not working**: Restart `flutter run` or make a structural change
+- **"Waiting for connection from debug service"**: Normal startup behavior, wait 2-5 minutes
+- **"Failed to download Dart SDK"**: Network issue, try different installation method or network
 
 ## Repository Status and Information
 - **Primary branch**: `dev` (default development branch)  
