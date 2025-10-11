@@ -120,7 +120,7 @@ OpenTube respects user privacy and does not collect personal data. The applicati
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [AGPL License](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
 ## 🙏 Acknowledgments
 
