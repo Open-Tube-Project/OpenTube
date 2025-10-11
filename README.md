@@ -136,21 +136,16 @@ OpenTube respects user privacy and does not collect personal data. The applicati
 
 ## 📄 License
 
-**OpenTube**, is free software: you can redistribute it and/or modify it under the terms of the **GNU Affero General Public License** as published by the Free Software Foundation, either **version 3** of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the full license for more details.
-
----
-
-### Copyright & Full License Text
+This project is licensed under the **GNU Affero General Public License, Version 3 or later (AGPLv3+)**.
 
 **Copyright (C) 2025 The OpenTube Project Authors**
 
-You should have received a copy of the GNU Affero General Public License along with this program in the file named **`LICENSE`**. If not, see <https://www.gnu.org/licenses/>.
+### Key License Points
 
-### Source Code Availability
-
-As this software is intended to be used over a network, all users interacting with a modified version of OpenTube remotely must be prominently offered the **Corresponding Source** of that version.
+* **Free Software:** You are free to run, study, share, and modify this software.
+* **Full Text:** The complete license is included in the file **`LICENSE`** in this repository.
+* **No Warranty:** This program is provided **without any warranty**.
+* **AGPL Requirement:** If you modify and run a version of OpenTube as a public network service, you **must** prominently offer all users access to the Corresponding Source Code of your modified version.
 
 ---
 
