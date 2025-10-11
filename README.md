@@ -118,10 +118,6 @@ OpenTube respects user privacy and does not collect personal data. The applicati
 - **Discussions**: [GitHub Discussions](https://github.com/Open-Tube-Project/OpenTube/discussions)
 - **Wiki**: [Project Wiki](https://github.com/Open-Tube-Project/OpenTube/wiki)
 
-## 📄 License
-
-This project is open source and available under the [AGPL License](https://www.gnu.org/licenses/agpl-3.0.en.html).
-
 ## 🙏 Acknowledgments
 
 - Flutter team for the amazing cross-platform framework
@@ -137,6 +133,24 @@ This project is open source and available under the [AGPL License](https://www.g
 - [ ] Offline video support
 - [ ] Advanced customization options
 - [ ] Performance optimizations
+
+## 📄 License
+
+**OpenTube**, is free software: you can redistribute it and/or modify it under the terms of the **GNU Affero General Public License** as published by the Free Software Foundation, either **version 3** of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the full license for more details.
+
+---
+
+### Copyright & Full License Text
+
+**Copyright (C) 2025 The OpenTube Project Authors**
+
+You should have received a copy of the GNU Affero General Public License along with this program in the file named **`LICENSE`**. If not, see <https://www.gnu.org/licenses/>.
+
+### Source Code Availability
+
+As this software is intended to be used over a network, all users interacting with a modified version of OpenTube remotely must be prominently offered the **Corresponding Source** of that version.
 
 ---
 
