@@ -1,3 +1,4 @@
+<img src="https://github.com/Open-Tech-Project/OpenTech_files/blob/main/179259430.png" align="left" width="60" height="60" alt="Project Logo">
 # OpenTube
 
 [![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)](https://flutter.dev/)
