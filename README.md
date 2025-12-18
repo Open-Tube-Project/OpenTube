@@ -35,7 +35,7 @@ OpenTube is a powerful, open-source third-party YouTube client designed to bring
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Open-Tube-Project/OpenTube.git
+   git clone https://github.com/Open-Tech-Project/OpenTube.git
    cd OpenTube
    ```
 
@@ -111,13 +111,13 @@ OpenTube respects user privacy and does not collect personal data. The applicati
 **API Issues**
 - Check network connectivity
 - Verify YouTube is accessible in your region
-- Report persistent API issues in the [Issues](https://github.com/Open-Tube-Project/OpenTube/issues) section
+- Report persistent API issues in the [Issues](https://github.com/Open-Tech-Project/OpenTube/issues) section
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Open-Tube-Project/OpenTube/issues)
+- **Issues**: [GitHub Issues](https://github.com/Open-Tech-Project/OpenTube/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Open-Tube-Project/OpenTube/discussions)
-- **Wiki**: [Project Wiki](https://github.com/Open-Tube-Project/OpenTube/wiki)
+- **Wiki**: [Project Wiki](https://github.com/Open-Tech-Project/OpenTube/wiki)
 
 ## 🙏 Acknowledgments
 
